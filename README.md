@@ -14,4 +14,4 @@ Host here : https://chronoss09.github.io/goldhenaio2
 
 My Paypal : [just click here](https://www.paypal.com/paypalme/chronoss01)
 
-![PHOTO](https://github.com/chronoss09/GoldHen-AIO-v2/blob/main/Capture.PNG)
+![PHOTO](https://github.com/chronoss09/GoldHen-AIO-v2/blob/main/19700101011151.jpg)
