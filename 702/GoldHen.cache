@@ -1,0 +1,32 @@
+CACHE MANIFEST 
+# GoldHEN Host Menu v2 
+# v2.0 
+# 30/05/2021- 0:36:47,38 
+
+
+CACHE: 
+
+checker.html
+checker.js
+exploit.js
+goldhen_1.0.js
+goldhen_1.1.js
+goldhen_b3.js
+henb.js
+img.jpg
+index.html
+int64.js
+jailbreak.js
+loader.js
+mira.js
+payload.html
+ps4.js
+utils.js
+webrte.js
+webrte.png
+
+FALLBACK: 
+index.html 
+
+NETWORK: 
+* 

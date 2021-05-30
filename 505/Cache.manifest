@@ -1,0 +1,20 @@
+CACHE MANIFEST 
+# GoldHEN Host Menu 
+# v1.0 
+# 23/04/2021-16:20:56,11 
+
+
+CACHE: 
+
+checker.html
+checker.js
+goldhen10.html
+goldhen11.html
+goldhen11b3.html
+index.html
+
+FALLBACK: 
+index.html 
+
+NETWORK: 
+* 
