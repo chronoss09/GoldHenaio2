@@ -55,12 +55,12 @@ function consolecheck(){
 			
 			case ps4fwCompat[5]:
 			   alert("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + fwVersionp34 + " PS4 firmware detected !!\n\n Great : You can use the GoldHen payload to play your backup !!!");
-			   document.location.href="750/index.html"
+			   document.location.href="755/index.html"
 				break;
 				
 			case ps4fwCompat[6]:
 			   alert("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + fwVersionp34 + " PS4 firmware detected !!\n\n Great : You can use the GoldHen payload to play your backup !!!");
-			    document.location.href="751/index.html"
+			    document.location.href="755/index.html"
 				break;
 				
 			case ps4fwCompat[7]:
