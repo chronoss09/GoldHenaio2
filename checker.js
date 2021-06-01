@@ -30,34 +30,40 @@ function consolecheck(){
 				alert("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + fwVersionp34 + " PS4 firmware detected !!\n\n Great : You can use the GoldHen payload to play your backup !!!");
 				document.location.href="505/index.html"
 			    break;
-			
+
 			case ps4fwCompat[1]:
+			   
+				alert("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + fwVersionp34 + " PS4 firmware detected !!\n\n Great : You can use the GoldHen payload to play your backup !!!");
+				document.location.href="505/index.html"
+			    break;
+				
+			case ps4fwCompat[2]:
 			   alert("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + fwVersionp34 + " PS4 firmware detected !!\n\n Great : You can use the GoldHen payload to play your backup !!!");
 			   document.location.href="672/index.html"
 				break;
 				
-			case ps4fwCompat[2]:
+			case ps4fwCompat[3]:
 			   alert("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + fwVersionp34 + " PS4 firmware detected !!\n\n Great : You can use the GoldHen payload to play your backup !!!");
 			    document.location.href="702/index.html"
 				break;
 
-			case ps4fwCompat[3]:
+			case ps4fwCompat[4]:
 			   
 				alert("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + fwVersionp34 + " PS4 firmware detected !!\n\n Great : You can use the GoldHen payload to play your backup !!!");
 				document.location.href="702/index.html"
 			    break;
 			
-			case ps4fwCompat[4]:
+			case ps4fwCompat[5]:
 			   alert("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + fwVersionp34 + " PS4 firmware detected !!\n\n Great : You can use the GoldHen payload to play your backup !!!");
 			   document.location.href="750/index.html"
 				break;
 				
-			case ps4fwCompat[5]:
+			case ps4fwCompat[6]:
 			   alert("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + fwVersionp34 + " PS4 firmware detected !!\n\n Great : You can use the GoldHen payload to play your backup !!!");
 			    document.location.href="751/index.html"
 				break;
 				
-			case ps4fwCompat[6]:
+			case ps4fwCompat[7]:
 			   alert("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + fwVersionp34 + " PS4 firmware detected !!\n\n Great : You can use the GoldHen payload to play your backup !!!");
 			    document.location.href="755/index.html"
 				break;
