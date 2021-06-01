@@ -11,7 +11,7 @@ This host is only for __GoldHen__ payload from SiSTR0 and Joonie86
     * Hen 2.3.1b ported on fw 7.5x by Karo
     * WebRTE by PS4 Trainer
 
-Host here : https://chronoss09.github.io/goldhenaio2 
+Host here : https://chronoss09.github.io/GoldHenaio2 
 
 My Paypal : [just click here](https://www.paypal.com/paypalme/chronoss01)
 
