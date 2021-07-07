@@ -1,0 +1,22 @@
+CACHE MANIFEST 
+# GoldHEN Host Menu v2 
+# v2.0 
+# 30/05/2021- 0:52:53,60 
+
+
+CACHE: 
+
+img.jpg
+index.html
+pl_GoldHEN0.bin
+pl_GoldHENB3.bin
+pl_GoldHEN1.bin
+pl_HEN.bin
+pl_WebRTE.bin
+webrte.png
+
+FALLBACK: 
+index.html 
+
+NETWORK: 
+* 
