@@ -235,7 +235,7 @@ function leakJSC() {
 		}
 	}
 
-	debug_log("✔ Webkit Exploit Loaded");
+	debug_log("-> Webkit Exploit Loaded");
 	debug_log("....Please Wait....");
 
 	prepareUAF();
@@ -339,7 +339,7 @@ function prepareUAF() {
 }
 
 function sprayHTMLTextArea() {
-	debug_log("✔ Running Webkit Exploit, Please Wait...");
+	debug_log("-> Running Webkit Exploit, Please Wait...");
 
 	let textarea_div_elem = g_textarea_div_elem = document.createElement("div");
 	document.body.appendChild(textarea_div_elem);
